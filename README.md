@@ -1,10 +1,30 @@
 
-# Hi there, I'm Fayas👋
+<!-- Animated Waving Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
+</div>
+<!-- Dynamic Typing Effect -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Engineer;Quantum+Physics+Student;AI%2FML+Enthusiast;Cyber+Security+Learner;Robotics+Explorer" alt="Typing SVG" />
+  </a>
+</div>
 
-### Visionary CS Engineer | AI, ML & Cyber Security | Bridging Psychology with Quantum Physics
+<br>
 
-I am a Computer Science undergraduate passionate about building scalable, secure, and human-centric software solutions. I specialize in AI, Machine Learning, Full-Stack Development, and Cyber Security, with a unique academic foundation in Psychology and Quantum Physics.
+<!-- Your Bio -->
+<div align="center">
+  <p>I am a lifelong learner passionate about building at the intersection of classical software, artificial intelligence, and quantum computing.</p>
+</div>
 
+<br>
+<!-- Tech Stack -->
+<h3 align="center">🛠 Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,git,linux,github,vscode&theme=dark" />
+</div>
+
+<br>
 <br>
 <!-- Snake Animation -->
 <div align="center">
@@ -27,17 +47,12 @@ I am a Computer Science undergraduate passionate about building scalable, secure
   </a>
 </p>
 
-**Core Competencies:**
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-Expert-blue?style=flat-square&logo=security&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI_&_ML-Enthusiast-orange?style=flat-square&logo=openai&logoColor=white)
-![Psychology](https://img.shields.io/badge/Psychology-Applied-purple?style=flat-square&logo=brain&logoColor=white)
-![Quantum Physics](https://img.shields.io/badge/Quantum_Physics-Foundational-red?style=flat-square&logo=atom&logoColor=white)
-
 ---
-### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fayas-CS-Quantum&theme=radical&hide_border=true)
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayas-CS-Quantum&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ### 📫 Connect with Me
 <br>
