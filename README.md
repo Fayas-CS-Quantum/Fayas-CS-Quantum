@@ -1,7 +1,7 @@
 
 <!-- Animated Waving Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas_Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 <!-- Dynamic Typing Effect -->
 <div align="center">
@@ -37,11 +37,28 @@
 </div>
 
 ---
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+<br>
+
+<!-- GitHub Stats Dashboard -->
+<h3 align="center">📊 GitHub Analytics Dashboard</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayas-CS-Quantum&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Stats Card and Top Languages Side-by-Side -->
+  <a href="https://github.com/CS-Quantum">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CS-Quantum&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Arsath Akil's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Quantum&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
+
+<br>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=CS-Quantum&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
 
 ### 📫 Connect with Me
 <br>
