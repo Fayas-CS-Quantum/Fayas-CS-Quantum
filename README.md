@@ -1,3 +1,4 @@
+
 # Hi there, I'm [Your Name] 👋
 
 ### Visionary CS Engineer | AI, ML & Cyber Security | Bridging Psychology with Quantum Physics
@@ -16,32 +17,27 @@ I am a Computer Science undergraduate passionate about building scalable, secure
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages:** 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages & Frameworks:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,js,react,nodejs,tensorflow,mysql,git,github,vscode&perline=10" />
+  </a>
+</p>
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-**Specialized Areas:**
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-Expert-blue?style=for-the-badge)
-![AI & ML](https://img.shields.io/badge/AI_&_ML-Enthusiast-orange?style=for-the-badge)
-![Psychology](https://img.shields.io/badge/Psychology-Applied-purple?style=for-the-badge)
+**Core Competencies:**
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-Expert-blue?style=flat-square&logo=security&logoColor=white)
+![AI & ML](https://img.shields.io/badge/AI_&_ML-Enthusiast-orange?style=flat-square&logo=openai&logoColor=white)
+![Psychology](https://img.shields.io/badge/Psychology-Applied-purple?style=flat-square&logo=brain&logoColor=white)
+![Quantum Physics](https://img.shields.io/badge/Quantum_Physics-Foundational-red?style=flat-square&logo=atom&logoColor=white)
 
 ---
-
 
 ### 📊 My GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
 
----
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamathu-nowfar-fayas-muhamed-a955b1432?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+--- 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FayasMuhamxjp)
+📫 Connect with Me[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamathu-nowfar-fayas-muhamed-a955b1432?utm_source=share_via&utm_content=profile&utm_medium=member_android)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FayasMuhamxjp)
