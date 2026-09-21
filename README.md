@@ -34,14 +34,10 @@ I am a Computer Science undergraduate passionate about building scalable, secure
 ![Quantum Physics](https://img.shields.io/badge/Quantum_Physics-Foundational-red?style=flat-square&logo=atom&logoColor=white)
 
 ---
-
 ### 📊 My GitHub Stats
-![MY GitHub stats](https://github-readme-stats.web/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.web/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical&hide_border=true)
-
-
-
---- 
+![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fayas-CS-Quantum&theme=radical&hide_border=true)
 
 ### 📫 Connect with Me
 <br>
