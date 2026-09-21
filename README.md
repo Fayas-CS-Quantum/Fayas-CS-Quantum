@@ -36,7 +36,7 @@ I am a Computer Science undergraduate passionate about building scalable, secure
 
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical)
 
 ---
