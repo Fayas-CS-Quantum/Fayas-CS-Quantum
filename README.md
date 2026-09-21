@@ -1,7 +1,7 @@
 
 <!-- Animated Waving Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas.Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 <!-- Dynamic Typing Effect -->
 <div align="center">
@@ -21,7 +21,7 @@
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,git,linux,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,react,nodejs,tensorflow,mysql,git,github,linux,vscode&theme=dark" />
 </div>
 
 <br>
@@ -35,17 +35,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Fayas-CS-Quantum/Fayas-CS-Quantum/output/github-snake.svg" />
   </picture>
 </div>
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages & Frameworks:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,js,react,nodejs,tensorflow,mysql,git,github,vscode&perline=10" />
-  </a>
-</p>
 
 ---
 <!-- GitHub Stats -->
