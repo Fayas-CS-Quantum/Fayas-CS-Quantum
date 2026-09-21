@@ -36,8 +36,8 @@ I am a Computer Science undergraduate passionate about building scalable, secure
 ---
 
 ### 📊 My GitHub Stats
-![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical&hide_border=true)
+![MY GitHub stats](https://github-readme-stats.web/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.web/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical&hide_border=true)
 
 
 
@@ -48,7 +48,7 @@ I am a Computer Science undergraduate passionate about building scalable, secure
 <!-- Social Icons -->
 <div align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/muhamathu-nowfar-fayas-muhamed-a955b1432?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
