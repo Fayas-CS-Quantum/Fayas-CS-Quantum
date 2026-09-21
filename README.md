@@ -32,6 +32,6 @@ I am a Computer Science undergraduate passionate about building scalable, secure
 
 --- 
 
-📫
-Connect with Me[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamathu-nowfar-fayas-muhamed-a955b1432?utm_source=share_via&utm_content=profile&utm_medium=member_android)                                                
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FayasMuhamxjp)
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamathu-nowfar-fayas-muhamed-a955b1432?utm_source=share_via&utm_content=profile&utm_medium=member_android)                                                
+(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FayasMuhamxjp)
