@@ -6,7 +6,7 @@
 <!-- Dynamic Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=CS+Engineer;Quantum+Physics+Student;AI%2&ML+Enthusiast;Cyber+Security+Learner;Robotics+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=CS+Engineer;Quantum+Physics+Student;AI%2F&ML+Enthusiast;Cyber+Security+Learner;Robotics+Explorer" alt="Typing SVG" />
   </a>
 </div>
 <br>
@@ -53,7 +53,7 @@
 <!-- GitHub Streak Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=CS-Quantum&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Fayas-CS-Quantum&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
