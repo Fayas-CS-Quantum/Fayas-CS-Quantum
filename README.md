@@ -1,7 +1,7 @@
 
 <!-- Animated Waving Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas_Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 <!-- Dynamic Typing Effect -->
 <div align="center">
