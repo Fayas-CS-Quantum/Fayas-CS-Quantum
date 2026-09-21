@@ -5,6 +5,17 @@
 
 I am a Computer Science undergraduate passionate about building scalable, secure, and human-centric software solutions. I specialize in AI, Machine Learning, Full-Stack Development, and Cyber Security, with a unique academic foundation in Psychology and Quantum Physics.
 
+<br>
+<!-- Snake Animation -->
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CS-Quantum/CS-Quantum/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CS-Quantum/CS-Quantum/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/CS-Quantum/CS-Quantum/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -33,7 +44,13 @@ I am a Computer Science undergraduate passionate about building scalable, secure
 --- 
 
 ### 📫 Connect with Me
-
+<br>
+<!-- LinkedIn Icon -->
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamathu-nowfar-fayas-muhamed-a955b1432?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FayasMuhamxjp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.fayas_890@outlook.com) 
