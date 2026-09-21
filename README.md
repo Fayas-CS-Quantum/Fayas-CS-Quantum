@@ -6,10 +6,9 @@
 <!-- Dynamic Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Engineer;Quantum+Physics+Student;AI%2FML+Enthusiast;Cyber+Security+Learner;Robotics+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Arsath+1;Cyber+Security+Enthusiast;CS+Engineer;Quantum+Physics+Student;AI%2FML+Explorer;Robotics+Learner" alt="Typing SVG" />
   </a>
 </div>
-
 <br>
 
 <!-- Your Bio -->
@@ -43,9 +42,9 @@
 <h3 align="center">📊 GitHub Analytics Dashboard</h3>
 <div align="center">
   <!-- Stats Card and Top Languages Side-by-Side -->
-  <a href="https://github.com/CS-Quantum">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CS-Quantum&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Arsath Akil's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Quantum&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Fayas-CS-Quantum">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Fayas's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
