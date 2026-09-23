@@ -6,7 +6,7 @@
 <!-- Dynamic Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=CS+Engineer;Quantum+Physics+Student;AI+ML+Enthusiast;Cyber+Security+Learner;Robotics+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Computer+Science;Full-Stack+Developer;Quantum+Physics+Student;AI+&+ML+;Cyber+Security+Learner;Robotics+Explorer" alt="Typing SVG" />
   </a>
 </div>
 <br>
