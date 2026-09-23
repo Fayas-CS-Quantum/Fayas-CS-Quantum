@@ -1,12 +1,12 @@
 
 <!-- Animated Waving Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=Aspiring%20CS%20Engineer%20%7C%20Quantum%20Physics%20Student&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 <!-- Dynamic Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science;Quantum+Physics+Student;AI#2FML+;Robotics+Explorer;Cyber+Security+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Aspiring+Computer+Science+Engineer;Full-Stack+Developer;AI+and+ML;Robotics+Explorer;Tech+Builder+focused+on+AI,ML+and+Cyber +Security;Tech+ Scholar+ bridging +Psychology +with +Quantum +Physics" alt="Typing SVG" />
   </a>
 </div>
 <br>
