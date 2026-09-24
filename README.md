@@ -65,13 +65,13 @@
 <!-- Social Icons -->
 <div align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/muhamathu-nowfar-fayas-muhamed-a955b1432?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://www.linkedin.com/in/fayas-muhamed-m-n-a955b1432" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
   <!-- Twitter / X -->
-  <a href="(https://x.com/FayasMuhamxjp" target="_blank">
+  <a href="https://x.com/FayasMuhamxjp" target="_blank">
     <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
