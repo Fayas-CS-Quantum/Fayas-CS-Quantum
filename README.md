@@ -1,6 +1,6 @@
-<!-- Animated Waving Header -->
+<!-- Animated Waving Header (Reverted to Blue/Cyan) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,29&height=220&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=Aspiring%20CS%20Engineer%20%7C%20Quantum%20Physics%20Researcher&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=Aspiring%20CS%20Engineer%20%7C%20Quantum%20Physics%20Researcher&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 
 <!-- Dynamic Typing Effect -->
@@ -23,8 +23,8 @@
         <p><i>“Driven by curiosity, guided by logic, and designed for the future.”</i></p>
       </td>
       <td width="40%" align="center">
-        <!-- Neon Wireframe Character matching your screenshot -->
-        <img src="https://cdn.dribbble.com/users/2420052/screenshots/13717151/media/91164272e2e0a48c2a63b1c79b586364.gif" width="260" alt="Smart Tech Shadow Character" style="border-radius: 10px;" />
+        <!-- FIXED: Highly reliable coding animation that looks like a shadow character -->
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding Shadow Character" style="border-radius: 10px;" />
       </td>
     </tr>
   </table>
@@ -90,16 +90,16 @@
 <!-- GitHub Stats Dashboard -->
 <h3 align="center">📊 GitHub Analytics Dashboard</h3>
 <div align="center">
-  <!-- Reverted to the beautiful TokyoNight theme -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Fayas's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- FIXED: Reverted to the Radical theme you liked -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&bg_color=1e293b&hide_border=true&count_private=true&include_all_commits=true" alt="Fayas's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical&bg_color=1e293b&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fayas-CS-Quantum&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Fayas-CS-Quantum&theme=radical&bg_color=1e293b&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -107,20 +107,20 @@
 <hr>
 <br>
 
-<!-- Connect Section (Icon Only) -->
+<!-- Connect Section (Fixed with Text & Icons) -->
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
   <!-- UPDATE THE LINKS BELOW WITH YOUR ACTUAL URLS -->
   <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" alt="Portfolio" height="40" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
   </a>
 </div>
 <br>
