@@ -7,7 +7,7 @@
 <!-- Dynamic Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science;AI%2FML+Engineering;Full+Stack+Developer+%26+UI%2FUX+Designer;Cyber+Security+with+Network+Engineering;Scientific+Research+%7C+Physics+%26+Biology;Building+%22Atmosphere+for+Better+Living%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science;AI%2FML+Engineering;Full+Stack+Developer+%26+UI%2FUX+Designer;Cyber+Security+with+Network+Engineering;Scientific+Research+%7C+Physics+%26+Biology+%26+Chemistry;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -123,13 +123,13 @@
 <div align="center">
   
   <!-- LinkedIn (Exact Blue Circle) -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://lk.linkedin.com/in/fayas-muhamed-m-n-a955b1432" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Gmail (Exact Multicolor M) -->
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="fa315yas@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="50" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
