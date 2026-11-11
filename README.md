@@ -1,4 +1,4 @@
-<!-- Animated Waving Header (Reverted to Blue/Cyan) -->
+<!-- Animated Waving Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=Aspiring%20CS%20Engineer%20%7C%20Quantum%20Physics%20Researcher&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- Bio & Smart Shadow Character Layout -->
+<!-- Bio & Business Silhouette Layout -->
 <div align="center">
   <table border="0">
     <tr>
@@ -23,8 +23,14 @@
         <p><i>“Driven by curiosity, guided by logic, and designed for the future.”</i></p>
       </td>
       <td width="40%" align="center">
-        <!-- FIXED: Highly reliable coding animation that looks like a shadow character -->
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding Shadow Character" style="border-radius: 10px;" />
+        <!-- 
+          TO USE YOUR EXACT IMAGE: 
+          1. Upload your silhouette image to this repository (click 'Add file' > 'Upload files').
+          2. Once uploaded, click on the image file in GitHub.
+          3. Right-click the image and select "Copy image address" (or "Copy image link").
+          4. Replace the link below (inside the src="...") with your copied link.
+        -->
+        <img src="https://raw.githubusercontent.com/Fayas-CS-Quantum/Fayas-CS-Quantum/main/your-image-name.png" width="250" alt="Business Silhouette" style="border-radius: 10px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/3135/3135715.png';" />
       </td>
     </tr>
   </table>
@@ -90,7 +96,7 @@
 <!-- GitHub Stats Dashboard -->
 <h3 align="center">📊 GitHub Analytics Dashboard</h3>
 <div align="center">
-  <!-- FIXED: Reverted to the Radical theme you liked -->
+  <!-- Reverted to the vibrant Radical theme you liked -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&bg_color=1e293b&hide_border=true&count_private=true&include_all_commits=true" alt="Fayas's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical&bg_color=1e293b&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
@@ -107,20 +113,24 @@
 <hr>
 <br>
 
-<!-- Connect Section (Fixed with Text & Icons) -->
+<!-- Connect Section (Icon Only - Fixed) -->
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
-  <!-- UPDATE THE LINKS BELOW WITH YOUR ACTUAL URLS -->
+  <!-- UPDATE THE LINKS BELOW (href="...") WITH YOUR ACTUAL URLS -->
+  
   <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" height="40" />
+    <img src="https://img.shields.io/badge/-1E3A8A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="45" />
   </a>
   &nbsp;&nbsp;
+  
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" />
   </a>
   &nbsp;&nbsp;
+  
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="45" />
   </a>
+  
 </div>
 <br>
