@@ -130,7 +130,7 @@
   &nbsp;&nbsp;&nbsp;
   
   <!-- Email (Gmail) -->
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="fa315yas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50" />
   </a>
   
