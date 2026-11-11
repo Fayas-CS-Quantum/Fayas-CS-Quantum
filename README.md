@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=Aspiring%20CS%20Engineer%20%7C%20Quantum%20Physics%20Researcher&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 
+ <div align="left">
+  <!-- Portfolio (Your Custom Pf Icon) -->
+  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+      <img src="pf-icon.png" height="55" alt="Portfolio" />
+  </a>
+    </div>
 <!-- Dynamic Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -113,26 +119,25 @@
 <hr>
 <br>
 
-<!-- Connect Section (Fixed Pure Icons) -->
+<!-- Connect Section (Exact Icons) -->
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
-  <!-- UPDATE THE LINKS BELOW (href="...") WITH YOUR ACTUAL URLS -->
   
-  <!-- Portfolio (Using Web/Chrome icon) -->
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="50" />
+  <!-- LinkedIn (Exact Blue Circle) -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
-   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
+  <!-- Gmail (Exact Multicolor M) -->
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="50" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- Email (Gmail) -->
-  <a href="fa315yas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50" />
+  <!-- X (Twitter) -->
+  <a href="https://x.com/YOUR-X-HANDLE" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" height="55" alt="X" />
   </a>
-  
 </div>
 <br>
