@@ -23,28 +23,11 @@
         <p><i>“Driven by curiosity, guided by logic, and designed for the future.”</i></p>
       </td>
       <td width="40%" align="center">
-        <!-- Smart Tech Silhouette (Upper Body) for CEO Attraction -->
-        <img src="https://cdni.iconscout.com/illustration/premium/thumb/smart-man-thinking-about-technology-4725233-3938573.png" width="280" alt="Smart Tech Shadow Character" />
+        <!-- FIXED: Reliable Tech Avatar Image -->
+        <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Man%20technologist/3D/man_technologist_3d_default.png" width="250" alt="Smart Tech Character" />
       </td>
     </tr>
   </table>
-</div>
-
-<br>
-
-<!-- Connect Section -->
-<h3 align="center">🌐 Connect with Me</h3>
-<div align="center">
-  <!-- UPDATE THE LINKS BELOW WITH YOUR ACTUAL URLS -->
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 <br>
@@ -71,9 +54,17 @@
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack & Tools</h3>
+
 <div align="center">
-  <!-- Main Tech Icons -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,react,nodejs,tensorflow,mysql,git,github,linux,vscode,figma,blender&theme=dark" />
+  <h4>Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,react,nodejs,tensorflow,mysql&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <h4>Design & Robotics Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,blender&theme=dark" />
   <br><br>
   <!-- Custom Icons for Webots and Lunacy -->
   <img src="https://img.shields.io/badge/Webots-222222?style=for-the-badge&logo=ros&logoColor=white" alt="Webots" />
@@ -99,18 +90,35 @@
 <!-- GitHub Stats Dashboard -->
 <h3 align="center">📊 GitHub Analytics Dashboard</h3>
 <div align="center">
-  <a href="https://github.com/Fayas-CS-Quantum">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Fayas's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <!-- FIXED: Added custom background color and changed theme -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fayas-CS-Quantum&show_icons=true&theme=radical&bg_color=1e293b&hide_border=true&count_private=true&include_all_commits=true" alt="Fayas's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayas-CS-Quantum&layout=compact&theme=radical&bg_color=1e293b&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Fayas-CS-Quantum&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Fayas-CS-Quantum&theme=radical&bg_color=1e293b&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+
+<!-- Connect Section (Moved to the bottom) -->
+<h3 align="center">🌐 Connect with Me</h3>
+<div align="center">
+  <!-- UPDATE THE LINKS BELOW WITH YOUR ACTUAL URLS -->
+  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 <br>
