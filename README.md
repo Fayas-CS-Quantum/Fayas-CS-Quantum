@@ -113,23 +113,26 @@
 <hr>
 <br>
 
-<!-- Connect Section (Icon Only - Fixed) -->
+<!-- Connect Section (Fixed Pure Icons) -->
 <h3 align="center">🌐 Connect with Me</h3>
 <div align="center">
   <!-- UPDATE THE LINKS BELOW (href="...") WITH YOUR ACTUAL URLS -->
   
+  <!-- Portfolio (Using Web/Chrome icon) -->
   <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/-1E3A8A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="45" />
+    <img src="https://img.shields.io/badge/-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="50" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" />
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   
+  <!-- Email (Gmail) -->
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="45" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50" />
   </a>
   
 </div>
