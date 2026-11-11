@@ -25,12 +25,12 @@
       <td width="40%" align="center">
         <!-- 
           TO USE YOUR EXACT IMAGE: 
-          1. Upload your silhouette image to this repository (click 'Add file' > 'Upload files').
-          2. Once uploaded, click on the image file in GitHub.
-          3. Right-click the image and select "Copy image address" (or "Copy image link").
-          4. Replace the link below (inside the src="...") with your copied link.
+          1. 
+          2.
+          3. 
+          4.
         -->
-        <img src="https://raw.githubusercontent.com/Fayas-CS-Quantum/Fayas-CS-Quantum/main/your-image-name.png" width="250" alt="Business Silhouette" style="border-radius: 10px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/3135/3135715.png';" />
+        <img src="Screenshot 2026-11-11 084431.png" width="250" alt="Business Silhouette" style="border-radius: 10px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/3135/3135715.png';" />
       </td>
     </tr>
   </table>
