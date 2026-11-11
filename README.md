@@ -19,7 +19,7 @@
     <tr>
       <td width="60%" align="left">
         <h3>👨‍💻 About Me</h3>
-        <p>I am a lifelong learner passionate about building at the intersection of classical software, artificial intelligence, and quantum computing.</p>
+        <p>I am a lifelong learner passionate about building at the intersection of classical software, artificial intelligence, and Science.</p>
         <p>Currently pursuing IT at the <b>University of Moratuwa</b>, certified by <b>Harvard (CS50)</b> and <b>IBM (AI/ML)</b>. I bridge the gap between technical engineering, psychology, and creative design to solve real-world problems.</p>
         <p><i>“Driven by curiosity, guided by logic, and designed for the future.”</i></p>
       </td>
