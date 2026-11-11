@@ -135,7 +135,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- X (Twitter) -->
-  <a href="https://x.com/YOUR-X-HANDLE" target="_blank">
+  <a href="https://x.com/FayasMuhamxjp" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" height="55" alt="X" />
   </a>
 </div>
