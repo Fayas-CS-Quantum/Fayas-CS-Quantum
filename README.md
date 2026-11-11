@@ -1,18 +1,13 @@
 <!-- Animated Waving Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=Aspiring%20CS%20Engineer%20%7C%20Quantum%20Physics%20Researcher&descAlignY=55&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fayas+Muhamed%20M.N.&fontSize=70&fontAlignY=35&desc=Aspiring%20Computer+Scientist%20%7C%20Scientific+Researcher&descAlignY=55&descSize=20&animation=fadeIn" />
 </div>
 
- <div align="left">
-  <!-- Portfolio (Your Custom Pf Icon) -->
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-      <img src="pf-icon.png" height="55" alt="Portfolio" />
-  </a>
-    </div>
+
 <!-- Dynamic Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=IT+Undergraduate+at+University+of+Moratuwa;Aspiring+Computer+Science+Engineer;Full+Stack+Developer+%26+UI%2FUX+Designer;AI%2FML+and+Cyber+Security+Enthusiast;Scientific+Researcher+%7C+Quantum+Physics+%26+Biology;Building+%22Atmosphere+for+Better+Living%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science;AI%2FML+Engineering;Full+Stack+Developer+%26+UI%2FUX+Designer;Cyber+Security+with+Network+Engineering;Scientific+Research+%7C+Physics+%26+Biology;Building+%22Atmosphere+for+Better+Living%22" alt="Typing SVG" />
   </a>
 </div>
 
@@ -37,6 +32,10 @@
           4.
         -->
         <img src="Screenshot 2026-11-11 084431.png" width="250" alt="Business Silhouette" style="border-radius: 10px;" onerror="this.src='https://cdn-icons-png.flaticon.com/512/3135/3135715.png';" />
+         <!-- Portfolio (Your Custom Pf Icon) -->
+  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+      <img src="Screenshot 2026-11-11 100222.png" height="55" alt="Portfolio" />
+  </a>
       </td>
     </tr>
   </table>
