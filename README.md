@@ -124,9 +124,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
+   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
